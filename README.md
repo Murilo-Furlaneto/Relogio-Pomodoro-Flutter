@@ -1,6 +1,6 @@
 # pomodoro
 
-A new Flutter project.
+Projeto apresentado pelo Leonardo Leitão da Cod3rs, o projeto tem como finalidade o desenvolvimento de um aplicativo em que o usuário poderá administrar o tempo de estudo, podendo aumentar ou diminuir juntamente com o tempo de intervalo, baseado no método de estudos Pomodoro.
 
 ## Getting Started
 
